@@ -1,0 +1,12 @@
+This is the list of stept needed to detail the composition of knowledge we want to create as webpages in order to upload our consciousness in the internet
+
+
+1. npx create-react-app [name-of-project]
+2. Create the repository
+3. cd [name-of-project] inside the folder where the server was created your going to start the next command 
+4. npm start 
+	this is for testing the react app using your local machine as momentary server so you can visualize how the web page is running.
+5. npm install react-native-web
+6. npm install gh-pages
+7.  
+
